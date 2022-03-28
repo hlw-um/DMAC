@@ -1,7 +1,7 @@
 # DMAC
 DMAC:  A Distributional Perspective on Multi-agent Cooperation with Deep Reinforcement Learning
 
-This repository is based on the PRMARL (https://github.com/oxwhirl/pymarl). For the installation instructions, pls refer to PRMARL.
+This repository is based on the PyMARL (https://github.com/oxwhirl/pymarl). For the installation instructions, pls refer to PyMARL.
 
 The codes related to DMAC are,
 
